@@ -5,8 +5,8 @@ title: "Natália Assis"
 ---
 
 <section id="header">
-    <h1>Hi, I'm Natália Assis,</h1>
-    <h2>And I can help you with...</h2>
+    <h1>Hi, I'm Natália Assis</h1>
+    <h2>, and I can help you with...</h2>
 </section>
 
 <section class="cards">

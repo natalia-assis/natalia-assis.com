@@ -4,40 +4,72 @@ permalink: /
 title: "Natália Assis"
 ---
 
-<section id="header">
-    <h1>Hi, I'm Natália Assis</h1>
-    <h2>, and I can help you with...</h2>
+<h1 class="ui sixteen wide column header">
+    <img src="/images/natalia-apple-250x250.jpg" alt="" class="ui small bordered circular image middle aligned">
+    <div class="content">
+        Hi, I'm Natália Assis.
+        <div class="sub header">You can count on me for...</div>
+    </div>
+</h1>
+
+<section class="ui relaxed stackable three cards row">
+
+    <div class="ui fluid violet card">
+      <div class="center aligned content">
+        <h2 class="ui header">Languages</h2>
+        <i class="big circular world icon"></i>
+        <div class="left aligned description">
+            <p>
+                <ul class="ui list">
+                    <li>Text Translations</li>
+                    <li>Software internationalization</li>
+                    <li>Private language teaching (english, german, portuguese)</li>
+                </ul>
+            </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="ui fluid violet card">
+      <div class="center aligned content">
+        <h2 class="ui header">Communication</h2>
+        <i class="big circular puzzle icon"></i>
+        <div class="left aligned description">
+            <p>
+                <ul class="ui padded list">
+                    <li>Public Relations</li>
+                    <li>Social Media</li>
+                    <li>Product Launch Strategies</li>
+                    <li>Internal Communication</li>
+                    <li>Multilingual Content Creation</li>
+                    <li>Customer Relationship Management</li>
+                    <li>Analytics</li>
+                </ul>
+            </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="ui fluid violet card">
+      <div class="center aligned content">
+        <h2 class="ui header">Or check my CV</h2>
+        <i class="big circular user icon"></i>
+        <div class="left aligned description">
+            <p style="margin: 1em 0">
+                And see how else I could help you.
+            </p>
+        </div>
+      </div>
+    </div>
 </section>
 
-<section class="cards">
-    <div class="card languages">
-        <h3>Languages</h3>
-        <ul>
-            <li>Text Translations</li>
-            <li>Software internationalization</li>
-            <li>Private language teaching (english, german, portuguese)</li>
-        </ul>
+<section class="ui fluid bottom attached centered row">
+    <div class="ui huge labeled button" tabindex="0">
+      <div class="ui red button">
+        <i class="large heart icon"></i>
+      </div>
+      <a class="ui basic ten wide column red left pointing label">
+        Contact me
+      </a>
     </div>
-
-    <div class="card communications">
-        <h3>Communications</h3>
-        <ul>
-            <li>Public Relations</li>
-            <li>Social Media</li>
-            <li>Product Launch Strategies</li>
-            <li>Internal Communication</li>
-            <li>Multilingual Content Creation</li>
-            <li>Customer Relationship Management</li>
-            <li>Analytics</li>
-        </ul>
-    </div>
-
-    <div class="card cv">
-        <h3>CV</h3>
-        <p>You can also check my CV out</p>
-    </div>
-</section>
-
-<section class="contact-me">
-    <h3>Contact-me</h3>
 </section>

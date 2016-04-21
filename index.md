@@ -68,7 +68,7 @@ title: "Natália Assis"
       <div class="ui red button">
         <i class="large heart icon"></i>
       </div>
-      <a class="ui basic ten wide column red left pointing label">
+      <a href="/contact" class="ui basic ten wide column red left pointing label">
         Contact me
       </a>
     </div>

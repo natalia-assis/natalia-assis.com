@@ -14,10 +14,10 @@ title: "Natália Assis"
 
 <section class="ui relaxed stackable three cards row">
 
-    <div class="ui fluid violet card">
+    <a class="ui fluid violet card" href="/">
       <div class="center aligned content">
         <h2 class="ui header">Languages</h2>
-        <i class="big circular world icon"></i>
+        <i class="big circular world grey icon"></i>
         <div class="left aligned description">
             <p>
                 <ul class="ui list">
@@ -28,12 +28,12 @@ title: "Natália Assis"
             </p>
         </div>
       </div>
-    </div>
+    </a>
 
-    <div class="ui fluid violet card">
+    <a class="ui fluid violet card" href="/">
       <div class="center aligned content">
         <h2 class="ui header">Communication</h2>
-        <i class="big circular puzzle icon"></i>
+        <i class="big circular puzzle grey icon"></i>
         <div class="left aligned description">
             <p>
                 <ul class="ui list">
@@ -48,19 +48,19 @@ title: "Natália Assis"
             </p>
         </div>
       </div>
-    </div>
+    </a>
 
-    <div class="ui fluid violet card">
+    <a class="ui fluid violet card" href="/cv">
       <div class="center aligned content">
         <h2 class="ui header">Or check my CV</h2>
-        <i class="big circular user icon"></i>
+        <i class="big circular user grey icon"></i>
         <div class="left aligned description">
             <p style="margin: 1em 0">
                 And see how else I could help you.
             </p>
         </div>
       </div>
-    </div>
+    </a>
 </section>
 
 <section class="ui fluid bottom attached centered row">

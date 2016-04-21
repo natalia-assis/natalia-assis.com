@@ -36,7 +36,7 @@ title: "Natália Assis"
         <i class="big circular puzzle icon"></i>
         <div class="left aligned description">
             <p>
-                <ul class="ui padded list">
+                <ul class="ui list">
                     <li>Public Relations</li>
                     <li>Social Media</li>
                     <li>Product Launch Strategies</li>

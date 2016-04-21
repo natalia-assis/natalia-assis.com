@@ -14,36 +14,36 @@ title: "Natália Assis"
 
 <section class="ui relaxed stackable three cards row">
 
-    <a class="ui fluid violet card" href="/">
+    <a class="ui fluid violet card">
       <div class="center aligned content">
         <h2 class="ui header">Languages</h2>
         <i class="big circular world grey icon"></i>
         <div class="left aligned description">
             <p>
-                <ul class="ui list">
-                    <li>Text Translations</li>
-                    <li>Software internationalization</li>
-                    <li>Private language teaching (english, german, portuguese)</li>
+                <ul class="ui animated list">
+                    <li class="item">Text Translations</li>
+                    <li class="item">Software internationalization</li>
+                    <li class="item">Private language teaching (english, german, portuguese)</li>
                 </ul>
             </p>
         </div>
       </div>
     </a>
 
-    <a class="ui fluid violet card" href="/">
+    <a class="ui fluid violet card">
       <div class="center aligned content">
         <h2 class="ui header">Communication</h2>
         <i class="big circular puzzle grey icon"></i>
         <div class="left aligned description">
             <p>
-                <ul class="ui list">
-                    <li>Public Relations</li>
-                    <li>Social Media</li>
-                    <li>Product Launch Strategies</li>
-                    <li>Internal Communication</li>
-                    <li>Multilingual Content Creation</li>
-                    <li>Customer Relationship Management</li>
-                    <li>Analytics</li>
+                <ul class="ui animated list">
+                    <li class="item">Public Relations</li>
+                    <li class="item">Social Media</li>
+                    <li class="item">Product Launch Strategies</li>
+                    <li class="item">Internal Communication</li>
+                    <li class="item">Multilingual Content Creation</li>
+                    <li class="item">Customer Relationship Management</li>
+                    <li class="item">Analytics</li>
                 </ul>
             </p>
         </div>
@@ -56,7 +56,7 @@ title: "Natália Assis"
         <i class="big circular user grey icon"></i>
         <div class="left aligned description">
             <p style="margin: 1em 0">
-                And see how else I could help you.
+                And see how else we could collaborate together.
             </p>
         </div>
       </div>

@@ -1,6 +1,16 @@
 body {
     background-color: #f9f9f9;
 }
+
 .ui.container.page-wrapper {
     margin-top: 0.5em;
+}
+
+.ui.cards .card,
+.ui.cards a.card:hover {
+    cursor: default;
+}
+.ui.cards .card[href^="/cv"],
+.ui.cards a.card[href^="/cv"]:hover {
+    cursor: pointer;
 }

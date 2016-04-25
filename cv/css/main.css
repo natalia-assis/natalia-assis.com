@@ -136,10 +136,13 @@ h4 small {
     margin-top: 1.5em;
 }
 
+.volunteer.xp {
+    min-width: 50%;
+    max-width: 50%;
+}
 .courses li,
 .events li,
 .talk,
-.volunteer.xp,
 .books li {
     min-width: 33%;
     max-width: 33%;
@@ -150,7 +153,10 @@ h4 small {
     max-width: 25%;
 }
 
-.volunteer.xp aside { border: none; }
+.volunteer.xp aside {
+    border: none;
+    width: 100%;
+}
 
 h4,
 .summary,
